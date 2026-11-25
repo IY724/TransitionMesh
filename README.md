@@ -20,6 +20,11 @@ Abaqus/CAE plug-in for parametric transition meshing in 2D and 3D. It supports 2
 6. [Scope and limitations](#6-scope-and-limitations)
 7. [Contact and support](#7-contact-and-support)
 
+## Tutorial videos
+
+- [过渡1.mp4](videos/过渡1.mp4)
+- [过渡2.mp4](videos/过渡2.mp4)
+
 ## 1 Introduction
 
 ### 1.1 Overview
