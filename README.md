@@ -1,4 +1,4 @@
-# Transition Mesh V1.0
+# Transition Mesh V1.1
 
 Abaqus/CAE plug-in for parametric transition meshing in 2D and 3D. It supports 2:1 and 3:1 transitions, five geometry modes, multi-layer cascades, hybrid transitions and full-domain meshing.
 
